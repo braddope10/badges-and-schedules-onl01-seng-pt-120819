@@ -14,4 +14,4 @@ def assign_rooms(attendees)
   new_array = []
   counter = 0 
   attendees.each do |attendee|
-    new_array
+    new_array.push("Hello, my name is #{attendee}.")
