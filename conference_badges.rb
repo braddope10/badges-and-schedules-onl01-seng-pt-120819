@@ -12,4 +12,6 @@ end
 
 def assign_rooms(attendees)
   new_array = []
-  
+  counter = 0 
+  attendees.each do |attendee|
+    new_array
